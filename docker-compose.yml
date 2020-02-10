@@ -1,0 +1,8 @@
+version: '3'
+services:
+  data-retrieval:
+    build: .
+    ports:
+      - "9092:9092"
+  python:
+    image: "python:3"
