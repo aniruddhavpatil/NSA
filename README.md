@@ -1,9 +1,9 @@
 # NSA
 
-Team members:
-- Nikita Bafna
-- Shivali Jejurkar
-- Aniruddha Patil
+Maintainers:
+- Nikita Bafna (@nbafna04)
+- Shivali Jejurkar (@JShivali)
+- Aniruddha Patil (@aniruddhavpatil)
 
 # Deployment guide
 
